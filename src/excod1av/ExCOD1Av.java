@@ -22,6 +22,7 @@ public class ExCOD1Av {
         int divisor = 2;
         int cociente = 4;
         int resta;
+        // Realizo el merge
     }
     
 }
