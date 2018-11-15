@@ -18,7 +18,8 @@ public class ExCOD1Av {
         // TODO code application logic here
         // Añado una varible
         
-        int m = 6;
+        int numero = 6;
+        int divisor = 2;
     }
     
 }
