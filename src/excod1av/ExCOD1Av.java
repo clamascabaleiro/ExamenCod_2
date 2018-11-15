@@ -21,6 +21,7 @@ public class ExCOD1Av {
         int numero = 6;
         int divisor = 2;
         int cociente = 4;
+        int resta;
     }
     
 }
